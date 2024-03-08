@@ -1,0 +1,232 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(6, 22, 36);
+  color: white;
+  font-family: "IBM Plex Sans", sans-serif;
+}
+.navbar {
+  background-color: transparent;
+  height: 60px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-decoration: none;
+  margin-left: 1000px;
+}
+li {
+  list-style-type: none;
+  display: inline;
+  margin-top: -50px;
+  /* margin-bottom: 70px; */
+}
+a {
+  text-decoration: none;
+}
+
+#logo {
+  margin-left: 200px;
+  margin-top: 20px;
+}
+
+.main-container {
+  margin-top: -60px;
+  padding: 200px;
+  width: 552px;
+  min-width: 552px;
+  /* margin-bottom: 200px; */
+}
+h1 {
+  font-size: 44px;
+}
+p {
+  font-size: 25px;
+  margin-top: 16px;
+  color: gray;
+}
+
+button {
+  /* height: 48px; */
+  width: 176px;
+  /* margin: 10px; */
+  padding: 15px;
+}
+
+#first {
+  background-color: #268feb;
+}
+
+#second {
+  margin-top: 24px;
+  margin-left: 15px;
+}
+.features {
+  display: flex;
+  margin-top: 0px;
+  padding: 30px;
+}
+
+.features1 {
+  display: flex;
+  margin-top: 0px;
+  padding: 30px;
+}
+
+.f1 {
+  padding-left: 200px;
+  width: 300px;
+  height: 400px;
+}
+
+.f3 {
+  padding-left: 200px;
+  width: 300px;
+  height: 400px;
+  padding-right: 100px;
+}
+
+img {
+  padding-left: 60px;
+  padding-bottom: 32px;
+}
+
+h3 {
+  padding-left: 50px;
+  font-size: 24px;
+}
+
+.para {
+  font-size: 18px;
+  font-family: "IBM Plex Sans", sans-serif;
+  line-height: 28px;
+  letter-spacing: -0.1px;
+  color: gray;
+  text-align: center;
+}
+.main2 {
+  font-size: 50px;
+  color: aliceblue;
+  font-family: sans-serif;
+  font-weight: 600px;
+  margin-top: 140px;
+  text-align: center;
+  padding-bottom: 16px;
+}
+.para2 {
+  color: gray;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: center;
+  margin-top: -10px;
+  margin-bottom: 20px;
+}
+.login {
+  height: 500px;
+  width: 400px;
+  margin-left: 550px;
+  box-shadow: 20px 0px 100px 10px #131313;
+}
+.log1 {
+  display: flex;
+}
+.p1 {
+  font-size: 40px;
+  font-family: sans-serif;
+  font-weight: 700;
+  color: gray;
+  margin-top: 40px;
+  margin-left: 30px;
+}
+.p2 {
+  font-size: 50px;
+  font-family: sans-serif;
+  font-weight: 700;
+  color: white;
+  margin-top: 35px;
+}
+.p3 {
+  font-size: 20px;
+  color: gray;
+  margin-top: 65px;
+}
+hr {
+  width: 350px;
+  margin-top: 20px;
+  opacity: 30%;
+}
+.head1 {
+  margin-left: 30px;
+  color: white;
+}
+.fa-solid {
+  margin-left: 30px;
+  margin-top: 10px;
+}
+.P4 {
+  margin-left: 60px;
+  margin-top: -20px;
+  color: gray;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.btn3 {
+  padding: 15px;
+  margin-left: 25px;
+  width: 355px;
+  background-color: #268feb;
+  border: none;
+  color: white;
+  margin-top: 20px;
+}
+
+.last-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 176px;
+  width: 1034.4px;
+  border: 2px solid black;
+  margin-top: 80px;
+  margin-left: 200px;
+  margin-right: 200px;
+  background-color: rgb(6, 22, 36);
+}
+.btn4 {
+  padding: 15px;
+  border: none;
+  margin-left: 10px;
+  color: white;
+  background-color: #268feb;
+  height: 50px;
+  margin-right: 50px;
+}
+.head-last {
+  height: 50px;
+  font-size: 35px;
+  margin-left: 50px;
+}
+
+footer {
+  margin-top: 100px;
+  height: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 50px;
+}
+.footer-div {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 1000px;
+  padding: 10px;
+  margin-top: -30px;
+}
+.last-img {
+  margin-left: 0px;
+  margin-top: 10px;
+}
+.mention-div {
+  color: gray;
+}
